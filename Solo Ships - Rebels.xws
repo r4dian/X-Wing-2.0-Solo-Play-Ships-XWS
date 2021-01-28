@@ -1,1 +1,84 @@
-{"description":"","faction":"rebelalliance","name":"Unnamed Squadron","pilots":[{"id":"talasquadronpilot","name":"talasquadronpilot","points":24,"ship":"z95af4headhunter"},{"id":"banditsquadronpilot","name":"banditsquadronpilot","points":22,"ship":"z95af4headhunter"},{"id":"banditsquadronpilot","name":"banditsquadronpilot","points":22,"ship":"z95af4headhunter"},{"id":"talasquadronpilot","name":"talasquadronpilot","points":24,"ship":"z95af4headhunter"},{"id":"phoenixsquadronpilot","name":"phoenixsquadronpilot","points":34,"ship":"rz1awing","upgrades":{"missile":["concussionmissiles"]}},{"id":"graysquadronbomber","name":"graysquadronbomber","points":42,"ship":"btla4ywing","upgrades":{"torpedo":["protontorpedoes"]}},{"id":"goldsquadronveteran","name":"goldsquadronveteran","points":44,"ship":"btla4ywing","upgrades":{"torpedo":["protontorpedoes"]}},{"id":"greensquadronpilot","name":"greensquadronpilot","points":36,"ship":"rz1awing","upgrades":{"missile":["concussionmissiles"]}}],"points":248,"vendor":{"yasb":{"builder":"Yet Another Squad Builder 2.0","builder_url":"https://raithos.github.io/","link":"https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z56XWWY57XWY57XWY56XWWY53XW99Y30XW136WWWWY29XWW136WWWWY52XWW99&sn=Unnamed%20Squadron&obs="}},"version":"2.0.0"}
+{
+    "description": "",
+    "faction": "rebelalliance",
+    "name": "Unnamed Squadron",
+    "pilots": [
+        {
+            "id": "talasquadronpilot",
+            "name": "talasquadronpilot",
+            "points": 24,
+            "ship": "z95af4headhunter"
+        },
+        {
+            "id": "banditsquadronpilot",
+            "name": "banditsquadronpilot",
+            "points": 22,
+            "ship": "z95af4headhunter"
+        },
+        {
+            "id": "banditsquadronpilot",
+            "name": "banditsquadronpilot",
+            "points": 22,
+            "ship": "z95af4headhunter"
+        },
+        {
+            "id": "talasquadronpilot",
+            "name": "talasquadronpilot",
+            "points": 24,
+            "ship": "z95af4headhunter"
+        },
+        {
+            "id": "phoenixsquadronpilot",
+            "name": "phoenixsquadronpilot",
+            "points": 34,
+            "ship": "rz1awing",
+            "upgrades": {
+                "missile": [
+                    "concussionmissiles"
+                ]
+            }
+        },
+        {
+            "id": "greensquadronpilot",
+            "name": "greensquadronpilot",
+            "points": 36,
+            "ship": "rz1awing",
+            "upgrades": {
+                "missile": [
+                    "concussionmissiles"
+                ]
+            }
+        },
+        {
+            "id": "graysquadronbomber",
+            "name": "graysquadronbomber",
+            "points": 42,
+            "ship": "btla4ywing",
+            "upgrades": {
+                "torpedo": [
+                    "protontorpedoes"
+                ]
+            }
+        },
+        {
+            "id": "goldsquadronveteran",
+            "name": "goldsquadronveteran",
+            "points": 44,
+            "ship": "btla4ywing",
+            "upgrades": {
+                "torpedo": [
+                    "protontorpedoes"
+                ]
+            }
+        }
+    ],
+    "points": 248,
+    "vendor": {
+        "yasb": {
+            "builder": "Yet Another Squad Builder 2.0",
+            "builder_url": "https://raithos.github.io/",
+            "link": "https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z56XWWY57XWY57XWY56XWWY53XW99Y30XW136WWWWY29XWW136WWWWY52XWW99&sn=Unnamed%20Squadron&obs="
+        }
+    },
+    "version": "2.0.0"
+}
